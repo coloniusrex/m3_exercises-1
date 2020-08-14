@@ -1,4 +1,5 @@
 require './spec/spec_helper'
+require './services/advice_service.rb'
 
 describe AdviceService do
   before(:each) do
