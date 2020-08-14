@@ -1,4 +1,5 @@
 require 'spec_helper'
+require './services/chuck_service'
 
 describe ChuckService do
   before(:each) do
